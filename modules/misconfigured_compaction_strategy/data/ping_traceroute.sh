@@ -1,0 +1,3 @@
+ping ${HOSTNAME}
+
+traceroute ${HOSTNAME}
